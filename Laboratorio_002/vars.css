@@ -1,7 +1,7 @@
 :root{
-    --color-ligth: rgb(189, 189, 189);
-    --color-dark: rgb(31, 31, 31);
-    --color-pink: rgb(255, 24, 24);
+    --color-ligth: rgb(175, 175, 175);
+    --color-dark: rgb(52, 52, 52);
+    --color-pink: rgb(200, 25, 106);
     --transition: .5s;
     --space-10:1rem;
     --space-20:2rem;
