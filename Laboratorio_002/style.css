@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-size: 62.5%; /*conversao de px -> rem (10px)*/
+}
